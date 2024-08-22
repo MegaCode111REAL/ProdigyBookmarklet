@@ -23,3 +23,7 @@ Important: Unzip the PXI Fusion ZIP file. In the file selection dialog, choose t
 
 _________
 Done
+_________
+Join Us On Discord 
+
+Discord : https://discord.com/invite/VAkGbXKwhY
