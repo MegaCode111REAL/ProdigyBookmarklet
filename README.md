@@ -26,4 +26,4 @@ Done
 _________
 Join Us On Discord 
 
-Discord : https://discord.com/invite/VAkGbXKwhY
+Discord : https://discord.gg/qZfhwNzm9P
