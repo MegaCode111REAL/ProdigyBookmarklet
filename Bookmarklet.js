@@ -1,10 +1,1 @@
-(function() {
-    const scriptUrl = "https://raw.githubusercontent.com/DragonProdHax/PXI/main/PXI%20Fusion";
-    fetch(scriptUrl)
-        .then(response => response.text())
-        .then(code => {
-            eval(code);
-        })
-        .catch(error => console.error("Failed to load the script:", error));
-})();
-        
+javascript:(async%20function()%7B(function()%20%7B%0A%20%20%20%20const%20scriptUrl%20=%20%22https://raw.githubusercontent.com/DragonProdHax/PXI/main/PXI%2520Fusion%22;%0A%20%20%20%20fetch(scriptUrl)%0A%20%20%20%20%20%20%20%20.then(response%20=%3E%20response.text())%0A%20%20%20%20%20%20%20%20.then(code%20=%3E%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20eval(code);%0A%20%20%20%20%20%20%20%20%7D)%0A%20%20%20%20%20%20%20%20.catch(error%20=%3E%20console.error(%22Failed%20to%20load%20the%20script:%22,%20error));%0A%7D)();%0A%20%20%20%20%20%20%20%20%7D)()
