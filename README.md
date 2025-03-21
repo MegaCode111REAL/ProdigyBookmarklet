@@ -12,8 +12,8 @@ _________
 Done!
 
 I DO NOT TAKE CREDIT FOR THESE CHEATS, THE ORIGINAL IS [HERE](https://pxi-fusion.com).
+However, I put it in a bookmarklet using [this](http://chimurai.github.io/bookmarklet/) so you don't have to use console.
 
 _________
-Join Us On Discord 
 
-Discord : https://discord.gg/qZfhwNzm9P
+Join PXI-FUSION On Discord [here!](https://discord.gg/qZfhwNzm9P)
